@@ -1,4 +1,4 @@
- import os,zlib
+import os,zlib
 
 from os import system as osRUB
 from os import system as cmd
